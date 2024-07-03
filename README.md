@@ -1,5 +1,3 @@
-# neural-network-challenge-1
-
 # Student Loan Risk Prediction with Deep Learning
 
 This project involves building a neural network model to predict student loan repayment success. The model uses various student and loan-related features to classify whether a student will likely repay their loan.
@@ -140,9 +138,6 @@ The model achieved an accuracy of approximately 73% on the test data, with balan
 1. **Data Collection**: Collect data on credit scores, financial aid, employment prospects, loan details, and academic performance to recommend suitable loan options.
 2. **Filtering Method**: Use content-based filtering to match student attributes with loan features for personalized recommendations.
 3. **Challenges**: Address data privacy and security concerns and mitigate bias to ensure fair and secure recommendations.
-
-## Sources
-Activites from Module 18 and Xpert Learning Assistant for README formatting suggestions.
 
 ### Conclusion
 
